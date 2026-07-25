@@ -1,0 +1,38 @@
+name: Mise à jour quotidienne des offres
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Lancer le scraping
+        run: python scraper.py
+
+      - name: Générer le site
+        run: python build_site.py
+
+      - name: Publier les changements
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/offres.json docs/index.html
+          git diff --quiet --cached || git commit -m "Mise à jour automatique des offres $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
