@@ -20,6 +20,7 @@ TEMPLATE = """<!DOCTYPE html>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="google-site-verification" content="6Ielhh4Jl6872Ui1OPTWZs8RHVRGmWTxQrzYjSZQD-A" />
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2237247945591156" crossorigin="anonymous"></script>
 <title>Offres d'emploi &amp; bourses -- Bénin &amp; International</title>
 <style>
   :root {{
