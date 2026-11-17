@@ -204,7 +204,7 @@
     "titre": "En savoir plus",
     "organisation": "ONG (voir annonce)",
     "lien": "https://www.pageshumanitaires.com/recrutements-1/director-country-5432-ethiopia",
-    "date_publication": "2026-11-16",
+    "date_publication": "2026-11-17",
     "localisation": "Afrique / International",
     "categorie": "emploi",
     "source": "PagesHumanitaires"
@@ -304,7 +304,7 @@
     "titre": "En savoir plus",
     "organisation": "ONG (voir annonce)",
     "lien": "https://www.pageshumanitaires.com/recrutements-1/analyste-en-planification-financi%C3%A8re-et-reporting",
-    "date_publication": "2026-11-16",
+    "date_publication": "2026-11-17",
     "localisation": "Afrique / International",
     "categorie": "emploi",
     "source": "PagesHumanitaires"
@@ -458,5 +458,95 @@
     "localisation": "Afrique / International",
     "categorie": "emploi",
     "source": "PagesHumanitaires"
+  },
+  "3ece58059b9d136d": {
+    "id": "3ece58059b9d136d",
+    "titre": "Comptable et Contrôle de Gestion- Cotonou",
+    "organisation": "Voir annonce",
+    "lien": "https://www.emploibenin.com/offre-emploi-benin/comptable-controle-gestion-cotonou-504713",
+    "date_publication": "2026-11-17",
+    "localisation": "Bénin",
+    "categorie": "emploi",
+    "source": "EmploiBenin.com"
+  },
+  "ae29ecedba485b78": {
+    "id": "ae29ecedba485b78",
+    "titre": "Chatteur- Paris",
+    "organisation": "Voir annonce",
+    "lien": "https://www.emploibenin.com/offre-emploi-benin/chatteur-paris-500109",
+    "date_publication": "2026-11-17",
+    "localisation": "Bénin",
+    "categorie": "emploi",
+    "source": "EmploiBenin.com"
+  },
+  "b04b97495c042d20": {
+    "id": "b04b97495c042d20",
+    "titre": "Infographiste- International",
+    "organisation": "Voir annonce",
+    "lien": "https://www.emploibenin.com/offre-emploi-benin/infographiste-international-260483",
+    "date_publication": "2026-11-17",
+    "localisation": "Bénin",
+    "categorie": "emploi",
+    "source": "EmploiBenin.com"
+  },
+  "d574944bbbcc3688": {
+    "id": "d574944bbbcc3688",
+    "titre": "Téléconseiller Mutuelle Santé- Gbegamey",
+    "organisation": "Voir annonce",
+    "lien": "https://www.emploibenin.com/offre-emploi-benin/teleconseiller-mutuelle-sante-gbegamey-305379",
+    "date_publication": "2026-11-17",
+    "localisation": "Bénin",
+    "categorie": "emploi",
+    "source": "EmploiBenin.com"
+  },
+  "ec21e49ab0922031": {
+    "id": "ec21e49ab0922031",
+    "titre": "Courtier(ère) En Énergie B2B (Télétravail)- France",
+    "organisation": "Voir annonce",
+    "lien": "https://www.emploibenin.com/offre-emploi-benin/courtierere-en-energie-b2b-teletravail-france-388058",
+    "date_publication": "2026-11-17",
+    "localisation": "Bénin",
+    "categorie": "emploi",
+    "source": "EmploiBenin.com"
+  },
+  "d0167c67809d1b8f": {
+    "id": "d0167c67809d1b8f",
+    "titre": "Distributeur- International",
+    "organisation": "Voir annonce",
+    "lien": "https://www.emploibenin.com/offre-emploi-benin/distributeur-international-396718",
+    "date_publication": "2026-11-17",
+    "localisation": "Bénin",
+    "categorie": "emploi",
+    "source": "EmploiBenin.com"
+  },
+  "cf8da4bedc798b6b": {
+    "id": "cf8da4bedc798b6b",
+    "titre": "Téléopérateur Bilingue (Français/Anglais) H/F- Cotonou",
+    "organisation": "Voir annonce",
+    "lien": "https://www.emploibenin.com/offre-emploi-benin/teleoperateur-bilingue-francaisanglais-hf-cotonou-443546",
+    "date_publication": "2026-11-17",
+    "localisation": "Bénin",
+    "categorie": "emploi",
+    "source": "EmploiBenin.com"
+  },
+  "bbaf5bde8460b03a": {
+    "id": "bbaf5bde8460b03a",
+    "titre": "Stage Pro Bénévole (Chargé de Production)- Cotonou",
+    "organisation": "Voir annonce",
+    "lien": "https://www.emploibenin.com/offre-emploi-benin/stage-pro-benevole-charge-production-cotonou-470285",
+    "date_publication": "2026-11-17",
+    "localisation": "Bénin",
+    "categorie": "emploi",
+    "source": "EmploiBenin.com"
+  },
+  "57d87a9ff8e23c6d": {
+    "id": "57d87a9ff8e23c6d",
+    "titre": "ANGULAR Developer (M/F)",
+    "organisation": "Voir annonce",
+    "lien": "https://www.emploibenin.com/offre-emploi-benin/angular-developer-mf-243511",
+    "date_publication": "2026-11-17",
+    "localisation": "Bénin",
+    "categorie": "emploi",
+    "source": "EmploiBenin.com"
   }
 }
